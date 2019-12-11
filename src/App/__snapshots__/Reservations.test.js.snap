@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reservation should match the snapshot 1`] = `
+<section>
+  <input
+    onChange={[Function]}
+    placeholder="Name"
+    type="text"
+  />
+  <input
+    onChange={[Function]}
+    placeholder="Date ex. 12/3"
+    type="text"
+  />
+  <input
+    onChange={[Function]}
+    placeholder="Time ex. 6:30"
+    type="text"
+  />
+  <input
+    onChange={[Function]}
+    placeholder="Total People"
+    type="number"
+  />
+  <button
+    onClick={[Function]}
+  >
+    Submit
+  </button>
+</section>
+`;
